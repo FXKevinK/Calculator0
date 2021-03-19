@@ -366,4 +366,3 @@ namespace Calculator0
         private System.Windows.Forms.Label curop_label;
     }
 }
-
